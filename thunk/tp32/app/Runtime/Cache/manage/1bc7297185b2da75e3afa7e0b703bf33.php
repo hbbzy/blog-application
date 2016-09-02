@@ -1,4 +1,5 @@
-<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?> 
+<!DOCTYPE html>
 <html><!-- Mirrored from www.zi-han.net/theme/hplus/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Jan 2016 14:18:23 GMT -->
 <head>
     <meta charset="utf-8">
@@ -16,7 +17,6 @@
     <!--[if lt IE 9]>
     <meta http-equiv="refresh" content="0;ie.html" />
     <![endif]-->
-    <script>if(window.top !== window.self){ window.top.location = window.location;}</script>
 </head>
 
 <body class="gray-bg">

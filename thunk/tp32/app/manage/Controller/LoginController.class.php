@@ -33,4 +33,9 @@ class LoginController extends Controller {
             }
         }
     }
+    
+    public function logout(){
+        unset($_SESSION['userid']);
+        $this->success('退出成功','/manage.php/login/index');
+    }
 }
